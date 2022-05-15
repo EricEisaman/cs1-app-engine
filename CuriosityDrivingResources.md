@@ -221,3 +221,11 @@
 ### IDE Possibilities
 
 [Tauri](https://github.com/tauri-apps/tauri)
+
+---
+
+### TypeScript
+
+[Interfaces](https://docs.microsoft.com/en-us/learn/modules/typescript-implement-interfaces/)
+
+---
